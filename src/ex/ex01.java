@@ -28,10 +28,10 @@ public class ex01 {
 			
 			
 		if(m>k&&k>100){
-			
-		}
+			System.out.print("Impossible");
+		}else{
 		System.out.print(s);
-			
+		}
 		}
 		
 	}
